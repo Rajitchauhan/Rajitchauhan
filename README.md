@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajit kumar chauhan</h1>
-<h3 align="center">T&P club member at Eshan college in engineering | coding enthusiast</h3>
+<h3 align="center">Coding enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajitchauhan&label=Profile%20views&color=0e75b6&style=flat" alt="rajitchauhan" /> </p>
 
