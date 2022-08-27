@@ -1,19 +1,23 @@
+[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
+
 <h1 align="center">Hi 👋, I'm Rajit kumar chauhan</h1>
 <h3 align="center">Coding enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajitchauhan&label=Profile%20views&color=0e75b6&style=flat" alt="rajitchauhan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajitchauhan" alt="rajitchauhan" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajitchauhan" alt="rajitchauhan" /></a> </p> -->
 
 - 🔭 I’m currently working on **my portfolio**
 
 - 🌱 I’m currently learning **React**
 
-- 🤝 I’m currently studying **computer science and engineering at Abdul kalam technical university**
+- 🤝 I’m recently graduate from with 7.84 cgpa  **computer science and engineering at Abdul kalam technical university**
 
 - 💬 Ask me about **Python , Data structure**
 
 - 📫 How to reach me **rajitkumarchauhan99@gmail.com**
+
+- ⚡ Fun fact **I'm good with people**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
