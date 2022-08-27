@@ -7,11 +7,15 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajitchauhan" alt="rajitchauhan" /></a> </p> -->
 
+
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+
+
 - 🔭 I’m currently working on **my portfolio**
 
 - 🌱 I’m currently learning **React**
 
-- 🤝 I’m recently graduate from with 7.84 cgpa  **computer science and engineering at Abdul kalam technical university**
+- 🤝 I’m recently graduate from **computer science and engineering at Abdul kalam technical university**
 
 - 💬 Ask me about **Python , Data structure**
 
