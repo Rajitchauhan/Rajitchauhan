@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 🤝 I’m recently graduate from **computer science and engineering at Abdul kalam technical university**
+- 🤝 I’m recently graduate from ** at Abdul kalam technical university**
 
 - 💬 Ask me about **Python , Data structure**
 
