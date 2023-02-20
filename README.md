@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Python , Data structure**
 
-- 📫 How to reach me **rajitkumarchauhan99@gmail.com**
+- 📫 How to reach me **rajit3299@gmail.com**  **rajitkumarchauhan99@gmail.com**
 
 - ⚡ Fun fact **I'm good with people**
 
